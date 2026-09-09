@@ -1,0 +1,14 @@
+data/raw/
+*.zip
+*.ifc
+*.e57
+*.ply
+*.las
+*.laz
+*.sp
+*.tbp
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+Thumbs.db
