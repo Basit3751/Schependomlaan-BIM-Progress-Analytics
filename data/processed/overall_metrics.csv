@@ -1,0 +1,11 @@
+Metric,Value
+Planned element-task records,7166.0
+Observed element-task records,3661.0
+Planned unique BIM elements,3505.0
+Observed unique BIM elements,2358.0
+Late element-task records,194.0
+Unique BIM elements affected by delay,119.0
+Record coverage (%),51.09
+Element coverage (%),67.28
+Late-record rate (%),5.3
+Observed-element delay rate (%),5.05

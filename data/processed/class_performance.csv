@@ -1,0 +1,14 @@
+Canonical_IfcClass,Observed_Records,Unique_Elements,Late_Records,Delayed_Unique_Elements,Late_Rate_Percent,Delayed_Element_Rate_Percent
+window,412,259,98,50,23.79,19.31
+door,84,66,9,7,10.71,10.61
+wall,789,469,54,44,6.84,9.38
+covering,1015,735,28,15,2.76,2.04
+wallstandardcase,204,115,1,1,0.49,0.87
+slab,560,236,4,2,0.71,0.85
+buildingelementproxy,14,14,0,0,0.0,0.0
+buildingelementpart,297,265,0,0,0.0,0.0
+beam,252,166,0,0,0.0,0.0
+column,11,11,0,0,0.0,0.0
+member,10,9,0,0,0.0,0.0
+railing,4,4,0,0,0.0,0.0
+stair,9,9,0,0,0.0,0.0

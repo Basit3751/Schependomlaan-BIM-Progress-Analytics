@@ -1,0 +1,14 @@
+Canonical_IfcClass,Planned_Elements,Observed_Elements,Delayed_Elements,Unobserved_Elements,Observation_Coverage_Percent,Observed_Element_Delay_Rate
+covering,1214,735,15,479,60.54,2.04
+wall,648,469,44,179,72.38,9.38
+slab,279,236,2,43,84.59,0.85
+buildingelementpart,277,265,0,12,95.67,0.0
+window,259,259,50,0,100.0,19.31
+wallstandardcase,232,115,1,117,49.57,0.87
+door,205,66,7,139,32.2,10.61
+beam,174,166,0,8,95.4,0.0
+railing,90,4,0,86,4.44,0.0
+buildingelementproxy,86,14,0,72,16.28,0.0
+column,23,11,0,12,47.83,0.0
+member,9,9,0,0,100.0,0.0
+stair,9,9,0,0,100.0,0.0

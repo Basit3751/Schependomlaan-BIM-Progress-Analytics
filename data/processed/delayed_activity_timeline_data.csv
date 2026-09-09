@@ -1,0 +1,9 @@
+TaskID,TaskName,Observed_Records,Unique_Elements,Late_Records,Delayed_Elements,Planned_Start,Planned_Finish,Late_Rate_Percent,Task_Label,Duration
+ST00970,Plaatsen kozijnen,176,176,7,7,2015-06-18,2015-06-24,3.98,ST00970 – Plaatsen kozijnen,7
+ST00510,Lijmwerk kalkzandsteen elementen,19,19,2,2,2015-06-19,2015-06-23,10.53,ST00510 – Lijmwerk kalkzandsteen elementen,5
+ST00950,Stelwerk buitengevel,171,171,50,50,2015-07-02,2015-07-08,29.24,ST00950 – Stelwerk buitengevel,7
+ST00980,Plaatsen kozijnen,171,171,50,50,2015-07-06,2015-07-10,29.24,ST00980 – Plaatsen kozijnen,5
+ST01060,Metselwerk,527,527,60,60,2015-07-09,2015-07-21,11.39,ST01060 – Metselwerk,13
+ST01070,Metselwerk,199,199,13,13,2015-07-22,2015-08-04,6.53,ST01070 – Metselwerk,14
+ST01000,Prefab betonband,84,84,10,10,2015-08-17,2015-08-18,11.9,ST01000 – Prefab betonband,2
+ST01130,Plaatsen scharnierkap incl. goot en platte daken,313,313,2,2,2015-08-28,2015-09-17,0.64,ST01130 – Plaatsen scharnierkap incl. goot en platte daken,21

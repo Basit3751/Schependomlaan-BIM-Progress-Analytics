@@ -1,0 +1,73 @@
+TaskID,TaskName,Observed_Records,Unique_Elements,Late_Records,Delayed_Elements,Planned_Start,Planned_Finish,Late_Rate_Percent
+ST01060,Metselwerk,527,527,60,60,2015-07-09,2015-07-21,11.39
+ST00950,Stelwerk buitengevel,171,171,50,50,2015-07-02,2015-07-08,29.24
+ST00980,Plaatsen kozijnen,171,171,50,50,2015-07-06,2015-07-10,29.24
+ST01070,Metselwerk,199,199,13,13,2015-07-22,2015-08-04,6.53
+ST01000,Prefab betonband,84,84,10,10,2015-08-17,2015-08-18,11.9
+ST00970,Plaatsen kozijnen,176,176,7,7,2015-06-18,2015-06-24,3.98
+ST00510,Lijmwerk kalkzandsteen elementen,19,19,2,2,2015-06-19,2015-06-23,10.53
+ST01130,Plaatsen scharnierkap incl. goot en platte daken,313,313,2,2,2015-08-28,2015-09-17,0.64
+ST00060,Stellen bruggetjes,1,1,0,0,2015-02-26,2015-02-27,0.0
+ST00070,Nuts invoeren,1,1,0,0,2015-03-02,2015-03-04,0.0
+ST00080,Werkvloer liftput,1,1,0,0,2015-03-03,2015-03-03,0.0
+ST00090,Wapening liftvloer,1,1,0,0,2015-03-04,2015-03-04,0.0
+ST00100,Bekisten liftvloer,1,1,0,0,2015-03-04,2015-03-04,0.0
+ST00110,Stort liftvloer,1,1,0,0,2015-03-05,2015-03-05,0.0
+ST00130,Bekisten liftwanden,17,17,0,0,2015-03-06,2015-03-06,0.0
+ST00140,Wapening liftwanden,17,17,0,0,2015-03-09,2015-03-09,0.0
+ST00150,Stort liftwanden,17,17,0,0,2015-03-10,2015-03-10,0.0
+ST00200,Stellen funderingkist incl. poeren,32,32,0,0,2015-03-12,2015-03-20,0.0
+ST00210,Wapening,32,32,0,0,2015-03-19,2015-03-24,0.0
+ST00230,Stort,32,32,0,0,2015-03-25,2015-03-25,0.0
+ST00250,Opstorten fundering,39,39,0,0,2015-03-26,2015-04-02,0.0
+ST00310,Stelwerk metselwerk onder peil,50,50,0,0,2015-04-07,2015-04-07,0.0
+ST00320,Metselwerk onderpeil (buitenblad),50,50,0,0,2015-04-08,2015-04-14,0.0
+ST00350,Kanaalplaatvloer leggen (lev. week 16),51,51,0,0,2015-04-13,2015-04-13,0.0
+ST00370,Afstorten kanaalplaat,27,27,0,0,2015-04-16,2015-04-16,0.0
+ST00420,Plaatsen stalen kolommen,5,5,0,0,2015-04-20,2015-04-20,0.0
+ST00430,Prefab trappen en bordes ,9,9,0,0,2015-05-21,2015-05-21,0.0
+ST00440,Prefab trappen en bordes ,5,5,0,0,2015-06-17,2015-06-17,0.0
+ST00460,Stelwerk kalkzandsteen,24,24,0,0,2015-04-21,2015-04-21,0.0
+ST00470,Stelwerk kalkzandsteen,50,50,0,0,2015-05-22,2015-05-22,0.0
+ST00480,Stelwerk kalkzandsteen,17,17,0,0,2015-06-18,2015-06-18,0.0
+ST00490,Lijmwerk kalkzandsteen elementen,24,24,0,0,2015-04-22,2015-04-24,0.0
+ST00500,Lijmwerk kalkzandsteen elementen,51,51,0,0,2015-05-26,2015-05-28,0.0
+ST00540,Opstellen,36,36,0,0,2015-05-29,2015-06-02,0.0
+ST00550,Opstellen,13,13,0,0,2015-06-24,2015-06-26,0.0
+ST00560,Leggen breedplaat incl. Veiligheid,23,23,0,0,2015-05-01,2015-05-04,0.0
+ST00570,Leggen breedplaat incl. Veiligheid,13,13,0,0,2015-06-03,2015-06-04,0.0
+ST00580,Leggen breedplaat incl. Veiligheid,13,13,0,0,2015-06-29,2015-06-30,0.0
+ST00600,Randkist,23,23,0,0,2015-05-07,2015-05-08,0.0
+ST00610,Randkist,13,13,0,0,2015-06-05,2015-06-08,0.0
+ST00620,Randkist,13,13,0,0,2015-07-01,2015-07-02,0.0
+ST00630,Stalen balken,27,27,0,0,2015-05-11,2015-05-11,0.0
+ST00660,Installateurs,23,23,0,0,2015-05-07,2015-05-12,0.0
+ST00670,Installateurs,13,13,0,0,2015-06-05,2015-06-10,0.0
+ST00680,Installateurs,13,13,0,0,2015-07-01,2015-07-06,0.0
+ST00690,Wapening,23,23,0,0,2015-05-13,2015-05-14,0.0
+ST00700,Wapening,13,13,0,0,2015-06-11,2015-06-12,0.0
+ST00710,Wapening,13,13,0,0,2015-07-07,2015-07-08,0.0
+ST00730,Stort,23,23,0,0,2015-05-19,2015-05-19,0.0
+ST00740,Stort,28,28,0,0,2015-06-15,2015-06-15,0.0
+ST00750,Stort,13,13,0,0,2015-07-09,2015-07-09,0.0
+ST00790,Staalconstuctie dak,47,47,0,0,2015-07-13,2015-07-16,0.0
+ST00800,Stelwerk /lijmwerk lift,7,7,0,0,2015-07-15,2015-07-16,0.0
+ST00820,Prefab trappen en bordes 2e verd.,5,5,0,0,2015-07-13,2015-07-13,0.0
+ST00840,Opstellen,9,9,0,0,2015-07-16,2015-07-20,0.0
+ST00850,Leggen breedplaat incl. Veiligheid,9,9,0,0,2015-07-20,2015-07-21,0.0
+ST00870,Randkist,9,9,0,0,2015-07-22,2015-07-23,0.0
+ST00880,Installateurs,9,9,0,0,2015-07-22,2015-07-27,0.0
+ST00890,Wapening,9,9,0,0,2015-08-18,2015-08-19,0.0
+ST00910,Stort,9,9,0,0,2015-08-20,2015-08-20,0.0
+ST00940,Stelwerk buitengevel,165,165,0,0,2015-06-16,2015-06-22,0.0
+ST00990,Plaatsen kozijnen,14,14,0,0,2015-07-20,2015-07-24,0.0
+ST01050,Metselwerk,280,280,0,0,2015-06-25,2015-07-08,0.0
+ST01120,Plaatsen scharnierkap incl. goot en platte daken,85,85,0,0,2015-07-16,2015-08-06,0.0
+ST01150,Zinken bekleding dakkapelen,80,80,0,0,2015-08-28,2015-09-03,0.0
+ST01160,Zinken bekleding dakkapelen,149,149,0,0,2015-09-21,2015-10-02,0.0
+ST01170,Dakramen,85,85,0,0,2015-08-28,2015-09-03,0.0
+ST01200,Dakbedekking platte daken,38,38,0,0,2015-08-28,2015-09-03,0.0
+ST01210,Dakbedekking platte daken,47,47,0,0,2015-09-18,2015-10-01,0.0
+ST01220,Dakpannen,30,30,0,0,2015-09-04,2015-09-17,0.0
+ST01230,Dakpannen,12,12,0,0,2015-09-29,2015-10-12,0.0
+ST01250,Zink goot,12,12,0,0,2015-10-09,2015-10-15,0.0

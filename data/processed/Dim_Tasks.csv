@@ -1,0 +1,74 @@
+TaskID,TaskName,Planned_Start,Planned_Finish,Planned_Records,Planned_Elements,Observed_Records,Observed_Elements,Late_Records,Delayed_Elements,Observation_Coverage_Percent,Observed_Delay_Rate_Percent,Planned_Duration_Days,Task_Coverage_Status,Task_Delay_Status
+ST00060,Stellen bruggetjes,2015-02-26,2015-02-27,1,1,1,1,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00070,Nuts invoeren,2015-03-02,2015-03-04,1,1,1,1,0,0,100.0,0.0,3,Fully observed,No late elements recorded
+ST00080,Werkvloer liftput,2015-03-03,2015-03-03,1,1,1,1,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00090,Wapening liftvloer,2015-03-04,2015-03-04,1,1,1,1,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00100,Bekisten liftvloer,2015-03-04,2015-03-04,1,1,1,1,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00110,Stort liftvloer,2015-03-05,2015-03-05,1,1,1,1,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00130,Bekisten liftwanden,2015-03-06,2015-03-06,17,17,17,17,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00140,Wapening liftwanden,2015-03-09,2015-03-09,17,17,17,17,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00150,Stort liftwanden,2015-03-10,2015-03-10,17,17,17,17,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00200,Stellen funderingkist incl. poeren,2015-03-12,2015-03-20,32,32,32,32,0,0,100.0,0.0,9,Fully observed,No late elements recorded
+ST00210,Wapening,2015-03-19,2015-03-24,32,32,32,32,0,0,100.0,0.0,6,Fully observed,No late elements recorded
+ST00230,Stort,2015-03-25,2015-03-25,32,32,32,32,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00250,Opstorten fundering,2015-03-26,2015-04-02,39,39,39,39,0,0,100.0,0.0,8,Fully observed,No late elements recorded
+ST00310,Stelwerk metselwerk onder peil,2015-04-07,2015-04-07,50,50,50,50,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00320,Metselwerk onderpeil (buitenblad),2015-04-08,2015-04-14,50,50,50,50,0,0,100.0,0.0,7,Fully observed,No late elements recorded
+ST00350,Kanaalplaatvloer leggen (lev. week 16),2015-04-13,2015-04-13,51,51,51,51,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00370,Afstorten kanaalplaat,2015-04-16,2015-04-16,27,27,27,27,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00420,Plaatsen stalen kolommen,2015-04-20,2015-04-20,5,5,5,5,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00460,Stelwerk kalkzandsteen,2015-04-21,2015-04-21,24,24,24,24,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00490,Lijmwerk kalkzandsteen elementen,2015-04-22,2015-04-24,24,24,24,24,0,0,100.0,0.0,3,Fully observed,No late elements recorded
+ST00560,Leggen breedplaat incl. Veiligheid,2015-05-01,2015-05-04,23,23,23,23,0,0,100.0,0.0,4,Fully observed,No late elements recorded
+ST00600,Randkist,2015-05-07,2015-05-08,23,23,23,23,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00660,Installateurs,2015-05-07,2015-05-12,23,23,23,23,0,0,100.0,0.0,6,Fully observed,No late elements recorded
+ST00630,Stalen balken,2015-05-11,2015-05-11,27,27,27,27,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00690,Wapening,2015-05-13,2015-05-14,23,23,23,23,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00730,Stort,2015-05-19,2015-05-19,23,23,23,23,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00430,Prefab trappen en bordes ,2015-05-21,2015-05-21,9,9,9,9,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00470,Stelwerk kalkzandsteen,2015-05-22,2015-05-22,50,50,50,50,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00500,Lijmwerk kalkzandsteen elementen,2015-05-26,2015-05-28,51,51,51,51,0,0,100.0,0.0,3,Fully observed,No late elements recorded
+ST00540,Opstellen,2015-05-29,2015-06-02,36,36,36,36,0,0,100.0,0.0,5,Fully observed,No late elements recorded
+ST00570,Leggen breedplaat incl. Veiligheid,2015-06-03,2015-06-04,13,13,13,13,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00610,Randkist,2015-06-05,2015-06-08,13,13,13,13,0,0,100.0,0.0,4,Fully observed,No late elements recorded
+ST00670,Installateurs,2015-06-05,2015-06-10,13,13,13,13,0,0,100.0,0.0,6,Fully observed,No late elements recorded
+ST00700,Wapening,2015-06-11,2015-06-12,13,13,13,13,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00740,Stort,2015-06-15,2015-06-15,28,28,28,28,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00940,Stelwerk buitengevel,2015-06-16,2015-06-22,165,165,165,165,0,0,100.0,0.0,7,Fully observed,No late elements recorded
+ST00440,Prefab trappen en bordes ,2015-06-17,2015-06-17,5,5,5,5,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00480,Stelwerk kalkzandsteen,2015-06-18,2015-06-18,17,17,17,17,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00970,Plaatsen kozijnen,2015-06-18,2015-06-24,176,176,176,176,7,7,100.0,3.98,7,Fully observed,Contains late elements
+ST00510,Lijmwerk kalkzandsteen elementen,2015-06-19,2015-06-23,19,19,19,19,2,2,100.0,10.53,5,Fully observed,Contains late elements
+ST00550,Opstellen,2015-06-24,2015-06-26,13,13,13,13,0,0,100.0,0.0,3,Fully observed,No late elements recorded
+ST01050,Metselwerk,2015-06-25,2015-07-08,280,280,280,280,0,0,100.0,0.0,14,Fully observed,No late elements recorded
+ST00580,Leggen breedplaat incl. Veiligheid,2015-06-29,2015-06-30,13,13,13,13,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00620,Randkist,2015-07-01,2015-07-02,13,13,13,13,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00680,Installateurs,2015-07-01,2015-07-06,13,13,13,13,0,0,100.0,0.0,6,Fully observed,No late elements recorded
+ST00950,Stelwerk buitengevel,2015-07-02,2015-07-08,171,171,171,171,50,50,100.0,29.24,7,Fully observed,Contains late elements
+ST00980,Plaatsen kozijnen,2015-07-06,2015-07-10,171,171,171,171,50,50,100.0,29.24,5,Fully observed,Contains late elements
+ST00710,Wapening,2015-07-07,2015-07-08,13,13,13,13,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00750,Stort,2015-07-09,2015-07-09,13,13,13,13,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST01060,Metselwerk,2015-07-09,2015-07-21,527,527,527,527,60,60,100.0,11.39,13,Fully observed,Contains late elements
+ST00790,Staalconstuctie dak,2015-07-13,2015-07-16,47,47,47,47,0,0,100.0,0.0,4,Fully observed,No late elements recorded
+ST00820,Prefab trappen en bordes 2e verd.,2015-07-13,2015-07-13,5,5,5,5,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST00800,Stelwerk /lijmwerk lift,2015-07-15,2015-07-16,7,7,7,7,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00840,Opstellen,2015-07-16,2015-07-20,9,9,9,9,0,0,100.0,0.0,5,Fully observed,No late elements recorded
+ST01120,Plaatsen scharnierkap incl. goot en platte daken,2015-07-16,2015-08-06,85,85,85,85,0,0,100.0,0.0,22,Fully observed,No late elements recorded
+ST00850,Leggen breedplaat incl. Veiligheid,2015-07-20,2015-07-21,9,9,9,9,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00990,Plaatsen kozijnen,2015-07-20,2015-07-24,14,14,14,14,0,0,100.0,0.0,5,Fully observed,No late elements recorded
+ST00870,Randkist,2015-07-22,2015-07-23,9,9,9,9,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00880,Installateurs,2015-07-22,2015-07-27,9,9,9,9,0,0,100.0,0.0,6,Fully observed,No late elements recorded
+ST01070,Metselwerk,2015-07-22,2015-08-04,199,199,199,199,13,13,100.0,6.53,14,Fully observed,Contains late elements
+ST01000,Prefab betonband,2015-08-17,2015-08-18,84,84,84,84,10,10,100.0,11.9,2,Fully observed,Contains late elements
+ST00890,Wapening,2015-08-18,2015-08-19,9,9,9,9,0,0,100.0,0.0,2,Fully observed,No late elements recorded
+ST00910,Stort,2015-08-20,2015-08-20,9,9,9,9,0,0,100.0,0.0,1,Fully observed,No late elements recorded
+ST01130,Plaatsen scharnierkap incl. goot en platte daken,2015-08-28,2015-09-17,313,313,313,313,2,2,100.0,0.64,21,Fully observed,Contains late elements
+ST01150,Zinken bekleding dakkapelen,2015-08-28,2015-09-03,80,80,80,80,0,0,100.0,0.0,7,Fully observed,No late elements recorded
+ST01170,Dakramen,2015-08-28,2015-09-03,85,85,85,85,0,0,100.0,0.0,7,Fully observed,No late elements recorded
+ST01200,Dakbedekking platte daken,2015-08-28,2015-09-03,38,38,38,38,0,0,100.0,0.0,7,Fully observed,No late elements recorded
+ST01220,Dakpannen,2015-09-04,2015-09-17,30,30,30,30,0,0,100.0,0.0,14,Fully observed,No late elements recorded
+ST01260,Afbouw,2015-09-07,2015-12-31,3505,3505,0,0,0,0,0.0,,116,Not represented in as-built log,No late elements recorded
+ST01210,Dakbedekking platte daken,2015-09-18,2015-10-01,47,47,47,47,0,0,100.0,0.0,14,Fully observed,No late elements recorded
+ST01160,Zinken bekleding dakkapelen,2015-09-21,2015-10-02,149,149,149,149,0,0,100.0,0.0,12,Fully observed,No late elements recorded
+ST01230,Dakpannen,2015-09-29,2015-10-12,12,12,12,12,0,0,100.0,0.0,14,Fully observed,No late elements recorded
+ST01250,Zink goot,2015-10-09,2015-10-15,12,12,12,12,0,0,100.0,0.0,7,Fully observed,No late elements recorded
