@@ -1,0 +1,6 @@
+pandas
+numpy
+ifcopenshell
+matplotlib
+seaborn
+jupyter
